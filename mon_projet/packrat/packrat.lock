@@ -1,6 +1,6 @@
 PackratFormat: 1.4
 PackratVersion: 0.5.0
-RVersion: 3.5.1
+RVersion: 3.3.2
 Repos: CRAN=https://cran.rstudio.com/
 
 Package: BH
@@ -37,7 +37,7 @@ Hash: ff2840dd9b0d563fc80377a5a45510cd
 Package: dplyr
 Source: CRAN
 Version: 0.8.0.1
-Hash: a6547ccd9975f65dac0e46ce4b4e324e
+Hash: 527bf7f3066c778a86d4e000ed47b68b
 Requires: BH, R6, Rcpp, assertthat, glue, magrittr, pkgconfig, plogr,
     rlang, tibble, tidyselect
 

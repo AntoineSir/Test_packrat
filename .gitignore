@@ -34,4 +34,10 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+<<<<<<< HEAD
 .Rproj.user
+=======
+
+# personal lib
+packrat/lib/
+>>>>>>> c6a30b51de08534ece6283046a166bb665f09952

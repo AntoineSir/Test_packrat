@@ -1,3 +1,12 @@
+# fichiers source et options de packrat
+mon_projet/packrat/src/
+mon_projet/packrat/packrat.opts
+
+# personal lib
+mon_projet/packrat/lib*/
+
+# output du projet
+mon_projet/output/
 # History files
 .Rhistory
 .Rapp.history
@@ -32,15 +41,11 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
+monprojet/.gitignore
+
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
 <<<<<<< HEAD
 .Rproj.user
 =======
 
-# personal lib
-mon_projet/packrat/lib*/
->>>>>>> c6a30b51de08534ece6283046a166bb665f09952
-
-# output du projet
-mon_projet/output/

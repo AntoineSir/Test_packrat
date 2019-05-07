@@ -1,6 +1,6 @@
 PackratFormat: 1.4
 PackratVersion: 0.5.0
-RVersion: 3.5.1
+RVersion: 3.3.2
 Repos: CRAN=https://cran.rstudio.com/
 
 Package: BH
@@ -67,18 +67,9 @@ Version: 3.3
 Hash: b201f64e6e1469e8a3571c746ffa9059
 
 Package: data.table
-Source: github
-Version: 1.12.1
-Hash: 3ad16b1a521c5a9070fe8fbf0e8bc411
-GithubRepo: data.table
-GithubUsername: Rdatatable
-GithubRef: master
-GithubSha1: d694de7ddb6fa4d76eb7da0e1e8a7d4756960269
-RemoteHost: api.github.com
-RemoteRepo: data.table
-RemoteUsername: Rdatatable
-RemoteRef: master
-RemoteSha: d694de7ddb6fa4d76eb7da0e1e8a7d4756960269
+Source: CRAN
+Version: 1.12.2
+Hash: b1642cf2ee0ab1d1b152ffacdb4401f7
 
 Package: desc
 Source: CRAN
